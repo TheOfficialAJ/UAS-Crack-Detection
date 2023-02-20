@@ -2,7 +2,7 @@
 This program can be used to detect crack in images of tiles, it superimposes the cracks (highlighted in green) over the image of the tile. It does not possess any system to classify the tiles as cracked or not.
 
 
-![Image of detected crack overlaid on tile](overlay.png)
+![Image of detected crack overlaid on tile](https://github.com/TheOfficialAJ/UAS-Crack-Detection/blob/master/Overlay.png)
 
 ## How to use
 1. Download the `main.py` file, included with the project is a shortened version of the Kaggle dataset which you may or may not download
